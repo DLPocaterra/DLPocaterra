@@ -16,11 +16,11 @@ A versatile professional with a passion and background in cybersecurity, informa
 <h2>💻 Projects:</h2>
 
 - <b>Labs</b>
-  - [Virtual Home Lab]()
+  - [Virtual Home Lab](https://github.com/DLPocaterra/Virtual_Homelab)
 
 - <b>CTFs</b>
   - [NSW Government CTF](https://www.digital.nsw.gov.au/delivery/cyber-security/programs-and-initiatives)
   - [PicoCTF](https://www.picoctf.org/)
 
 - <b>Python</b>
-  - [Stock Analysis]()
+  - [Stock Analysis](https://github.com/DLPocaterra/Stock_Analysis)
