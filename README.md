@@ -10,8 +10,8 @@ A versatile professional with a passion and background in cybersecurity, informa
 <h2>📃 Certifications</h2>
 
 - [Cisco Certified Network Associate (In Progress)](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html#tabs-35d568e0ff-item-194f491212-tab)
-- [Microsoft Security Operations Analyst Associate (Planned)](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification)
-- [Microsoft Information Protection and Compliance Administrator Associate (Planned)](https://learn.microsoft.com/en-us/credentials/certifications/information-protection-administrator/?practice-assessment-type=certification)
+- [Microsoft Security Operations Analyst Associate (Scheduled)](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification)
+- [Microsoft Information Protection and Compliance Administrator Associate (Scheduled)](https://learn.microsoft.com/en-us/credentials/certifications/information-protection-administrator/?practice-assessment-type=certification)
 
 <h2>💻 Projects:</h2>
 
